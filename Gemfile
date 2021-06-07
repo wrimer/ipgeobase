@@ -11,8 +11,4 @@ gem "minitest", "~> 5.0"
 
 gem "rubocop", "~> 0.80"
 
-gem "http"
-
-gem 'nokogiri'
-
 gem 'nokogiri-happymapper', require: 'happymapper'
